@@ -1,5 +1,5 @@
 ﻿
-namespace cs_form_framework_net_binary {
+namespace cs_form_net_binary {
     partial class Form1 {
         /// <summary>
         /// 必要なデザイナー変数です。
