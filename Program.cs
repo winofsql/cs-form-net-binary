@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace cs_form_framework_net_binary {
+namespace cs_form_net_binary {
     static class Program {
         /// <summary>
         /// アプリケーションのメイン エントリ ポイントです。
